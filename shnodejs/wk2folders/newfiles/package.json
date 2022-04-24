@@ -1,0 +1,11 @@
+{
+  "name": "handlingerror",
+  "version": "1.0.0",
+  "description": "a tes",
+  "main": "handlingerrors.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Victor Mathias",
+  "license": "ISC"
+}

@@ -1,0 +1,16 @@
+{
+  "name": "my_express",
+  "version": "1.0.0",
+  "description": "",
+  "main": "changes.js",
+  "scripts": {
+    "start": "node changes.js",
+    "dev":"nodemon changes.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Victor Mathias",
+  "license": "ISC",
+  "dependencies": {
+    "nodemon": "^2.0.15"
+  }
+}
